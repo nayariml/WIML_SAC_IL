@@ -4,7 +4,7 @@
 
 This repository contains the implementation (will be released in soon) and results of our framework for **Adversarial Motion Priors (AMP)** combined with **Soft Actor-Critic (SAC)**, compared against **AMP + PPO**. The goal is to train quadruped robots to imitate animal-like motions.
 
-Check out the full publication: [Unlocking the Potential of Soft Actor-Critic for Imitation Learning] (https://arxiv.org/pdf/2509.24539)
+Check out the full publication: [Unlocking the Potential of Soft Actor-Critic for Imitation Learning](https://arxiv.org/pdf/2509.24539)
 
 ---
 
