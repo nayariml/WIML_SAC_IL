@@ -51,10 +51,10 @@ Check out the full publication: [Unlocking the Potential of Soft Actor-Critic fo
 ## Locomotion Demonstrations
 
 - **SAC + AMP**  
-![SAC AMP](evaluation/SAC_AMP.gif)
 
-- **PPO + AMP**  
-![PPO AMP](evaluation/PPO_AMP.gif)
+![SAC AMP](evaluation/record.gif)
+
+![SAC AMP](evaluation/SAC_AMP.gif)
 
 ---
 
